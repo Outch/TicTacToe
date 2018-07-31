@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+	outline: none;
+}
+
+body {
+	width: 80%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+h1 {
+	margin-bottom: 100px;
+}
+
+button {
+	display: block;
+	margin: auto;
+}
+
+table {
+	margin-top: 50px;
+	display: inline-block;
+}
+
+td {
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+}
